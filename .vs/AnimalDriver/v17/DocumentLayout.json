@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|solutionrelative:AnimalDriver\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\AnimalDriver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|solutionrelative:AnimalDriver\\AnimalDriver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|solutionrelative:AnimalDriver\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\HelperTick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E854DE2-8759-41AE-935C-47AB91567D0A}|AnimalDriver\\AnimalDriver.vcxproj|solutionrelative:AnimalDriver\\HelperTick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalDriver.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\AnimalDriver.cpp",
+              "RelativeDocumentMoniker": "AnimalDriver\\AnimalDriver.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\AnimalDriver.cpp",
+              "RelativeToolTip": "AnimalDriver\\AnimalDriver.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAewCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T16:47:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Timer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\Timer.cpp",
+              "RelativeDocumentMoniker": "AnimalDriver\\Timer.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\Timer.cpp",
+              "RelativeToolTip": "AnimalDriver\\Timer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T12:03:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\Animal.h",
+              "RelativeDocumentMoniker": "AnimalDriver\\Animal.h",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\Animal.h",
+              "RelativeToolTip": "AnimalDriver\\Animal.h",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T16:53:03.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelperTick.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\HelperTick.h",
+              "RelativeDocumentMoniker": "AnimalDriver\\HelperTick.h",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\source\\repos\\AnimalDriver\\AnimalDriver\\HelperTick.h",
+              "RelativeToolTip": "AnimalDriver\\HelperTick.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T11:27:16.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

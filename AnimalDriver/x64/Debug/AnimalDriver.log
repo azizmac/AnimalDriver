@@ -1,0 +1,10 @@
+﻿  AnimalDriver.cpp
+C:\Users\Илья\source\repos\AnimalDriver\AnimalDriver\Animal.h(87,16): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "AnimalDriver.cpp")
+  
+C:\Users\Илья\source\repos\AnimalDriver\AnimalDriver\Animal.h(115,16): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "AnimalDriver.cpp")
+  
+  AnimalDriver.vcxproj -> C:\Users\Илья\source\repos\AnimalDriver\x64\Debug\AnimalDriver.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
